@@ -1,0 +1,41 @@
+.wrapper {
+  margin: 0px auto 0 auto;
+  padding: 1rem 2rem;
+  width: 400px;
+  border-radius: 4px;
+  box-shadow: 5px 5px 5px -5px rgba(0, 0, 0, 0.6);
+  background: rgb(174, 189, 56);
+}
+
+.title {
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.btns {
+  padding-top: 1.25rem;
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+}
+
+.btns .btn {
+  width: 100px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 18px;
+  color: white;
+  background: rgb(89, 130, 52);
+  border: none;
+  cursor: pointer;
+}
+
+.btns .btn:hover {
+  transform: translateY(-5px);
+  transition: transform 300ms;
+  background: rgb(62, 91, 36);
+}

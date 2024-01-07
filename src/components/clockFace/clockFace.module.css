@@ -1,0 +1,23 @@
+.clock {
+    padding: 15px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background: #2e1f0a;
+    color: white;
+    font-family: Digital Dismay, 'Courier New', monospace;
+    font-size: 5rem;
+    font-weight: regular;
+    line-height: 1;
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.6);
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.6);
+}
+
+.clock .hours,
+.clock .minutes,
+.clock .seconds,
+.clock span {
+    align-self: center;
+}
