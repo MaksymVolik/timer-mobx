@@ -1,4 +1,6 @@
-# Task:
+# timer-mobx
+
+## Task:
 
 - Using context write the timer that will have two buttons start and stop
 - Timer should:
@@ -9,4 +11,3 @@
 - Title should be returned back to normal
 - Install MobX
 - Implement same functionality with MobX
-# timer-mobx
