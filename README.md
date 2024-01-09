@@ -1,4 +1,4 @@
-# timer-mobx
+# Timer-mobx
 
 ## Task:
 
@@ -9,5 +9,10 @@
 - On start title should be changed to "Timer is running"
 - On stop timer should be stopped, the latest value should be present
 - Title should be returned back to normal
-- Install MobX
-- Implement same functionality with MobX
+- **Install MobX**
+- **Implement same functionality with MobX**
+## React:
+- react functional components;
+- hooks (useState, useEffect, useCallback);
+- **managing state using mobX;**
+- TypeScript used;
